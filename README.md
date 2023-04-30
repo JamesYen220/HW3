@@ -2,6 +2,7 @@
 
 Connect backend to another computer: colpar  
 Getting started with React-Native: https://www.youtube.com/watch?v=mJ3bGvy0WAY&ab_channel=JavaScriptMastery  
+npm install  
 npm install expo-font axios react-native-dotenv  
 npm start  
 
