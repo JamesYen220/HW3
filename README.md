@@ -5,6 +5,7 @@ Getting started with React-Native: https://www.youtube.com/watch?v=mJ3bGvy0WAY&a
 Install ExpoGo on your IoS/Android: https://expo.dev/client  
 npx create-expo-app@latest -e with-router ./    
 npm install expo-font axios react-native-dotenv  
+npm install -g expo-cli  
 npm start  
 
 Problems:  
