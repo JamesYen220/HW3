@@ -11,4 +11,6 @@ sudo npm cache clean -f
 sudo npm install -g n  
 sudo n stable  
 
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/100248639/235338809-ef1ec9b4-8ced-4079-835b-6c518d7268f1.png">
+sudo chown -R 501:20 "/Users/jamesyen/.npm"  
 
