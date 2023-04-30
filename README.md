@@ -17,7 +17,7 @@ Reference: https://blog.csdn.net/qq_41767116/article/details/123676217?ops_reque
 <img width="624" alt="image" src="https://user-images.githubusercontent.com/100248639/235338809-ef1ec9b4-8ced-4079-835b-6c518d7268f1.png">
 sudo chown -R 501:20 "/Users/jamesyen/.npm"  
 
-![1581682848723_ pic](https://user-images.githubusercontent.com/100248639/235347105-bd09a5dc-b4a4-4205-b5f3-51fa837ac2a3.jpg)
+![1591682848822_ pic](https://user-images.githubusercontent.com/100248639/235347170-c421c821-6c78-43af-a101-6a6ab0765f3a.jpg)
 sudo npm install -g expo-cli  
 expo-cli start --tunnel  
 
