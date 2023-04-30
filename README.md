@@ -24,3 +24,6 @@ expo-cli start --tunnel
 
 <img width="1049" alt="image" src="https://user-images.githubusercontent.com/100248639/235347130-54a91542-4376-4ac2-b5f8-31142844b112.png">
 npm i @expo/ngrok@^4.1.0
+
+<img width="459" alt="image" src="https://user-images.githubusercontent.com/100248639/235348855-46c6d3cb-7742-4248-b2ab-848380089d7c.png">
+npm install -g expo-cli  
