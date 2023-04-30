@@ -3,7 +3,7 @@
 Connect backend to another computer: [colpar](https://www.cpolar.com/).   
 Getting started with React-Native: https://www.youtube.com/watch?v=mJ3bGvy0WAY&ab_channel=JavaScriptMastery  
 Install ExpoGo on your IoS/Android: https://expo.dev/client  
-npm install  
+npx create-expo-app@latest -e with-router ./    
 npm install expo-font axios react-native-dotenv  
 npm start  
 
