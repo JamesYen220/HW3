@@ -1,0 +1,110 @@
+{
+  "name": "bookstore_react_native_ver",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "latest",
+    "@expo/ngrok": "^4.1.1",
+    "@react-native-async-storage/async-storage": "^1.18.1",
+    "@react-native-community/checkbox": "^0.5.15",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/stack": "^6.0.11",
+    "antd": "^5.4.6",
+    "axios": "^1.4.0",
+    "bootstrap": "^4.4.1",
+    "expo": "^48.0.7",
+    "expo-checkbox": "~2.3.1",
+    "expo-constants": "~14.2.1",
+    "expo-font": "^11.1.1",
+    "expo-linking": "~4.0.1",
+    "expo-router": "^1.2.0",
+    "expo-splash-screen": "~0.18.1",
+    "expo-status-bar": "~1.4.2",
+    "moment": "^2.26.0",
+    "prop-types": "latest",
+    "react": "18.2.0",
+    "react-bootstrap": "^1.0.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.71.3",
+    "react-native-dotenv": "^3.4.8",
+    "react-native-elements": "^3.4.3",
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-reanimated": "~2.14.4",
+    "react-native-safe-area-context": "4.5.0",
+    "react-native-screens": "~3.20.0",
+    "react-native-vector-icons": "^9.2.0",
+    "react-native-web": "~0.18.7"
+  },
+  "scripts": {
+    "android": "../node_modules/.bin/expo start --android",
+    "ios": "../node_modules/.bin/expo start --ios",
+    "start": "../node_modules/.bin/expo start",
+    "build": "../node_modules/.bin/expo build:web",
+    "test": "../node_modules/.bin/jest",
+    "lint": "../node_modules/.bin/eslint .",
+    "prettier": "../node_modules/.bin/prettier --write **/*.{js,jsx,ts,tsx,css,scss,json,md}"
+  },
+  "eslintConfig": {
+    "extends": [
+      "airbnb",
+      "prettier",
+      "prettier/react",
+      "plugin:react-native/all"
+    ],
+    "plugins": [
+      "react",
+      "react-native",
+      "prettier"
+    ],
+    "rules": {
+      "react/jsx-filename-extension": [
+        "error",
+        {
+          "extensions": [
+            ".js",
+            ".jsx"
+          ]
+        }
+      ],
+      "prettier/prettier": "error",
+      "react-native/no-raw-text": "error"
+    },
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "extensions": [
+            ".js",
+            ".jsx",
+            ".json"
+          ]
+        }
+      },
+      "react": {
+        "version": "detect"
+      }
+    }
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
+    "@react-native-community/eslint-config": "^3.0.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "^8.0.0",
+    "jest": "^26.6.3",
+    "metro-react-native-babel-preset": "^0.66.2",
+    "react-test-renderer": "^18.2.0"
+  },
+  "resolutions": {
+    "metro": "^0.73.7",
+    "metro-resolver": "^0.73.7"
+  },
+  "overrides": {
+    "metro": "^0.73.7",
+    "metro-resolver": "^0.73.7"
+  }
+}
