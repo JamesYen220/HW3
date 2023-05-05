@@ -1,7 +1,10 @@
 # 《数据智能平台设计及实现》作业 3
 
 Connect backend to another computer: [colpar](https://dashboard.cpolar.com/get-started)    
-Start copolar: ./cpolar 8080  
+Start copolar: 
+```shell
+./cpolar 8080  
+```
 Getting started with React-Native: https://www.youtube.com/watch?v=mJ3bGvy0WAY&ab_channel=JavaScriptMastery  
 Install ExpoGo on your IoS/Android: https://expo.dev/client  
 ```shell
