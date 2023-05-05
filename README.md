@@ -9,7 +9,7 @@ npx create-expo-app@latest -e with-router ./
 npm install expo-font axios react-native-dotenv  
 npm install -g expo-cli  
 npm start  
-``` :1-4   
+```    
 
 Problems:  
 <img width="1691" alt="image" src="https://user-images.githubusercontent.com/100248639/235338724-9817dae6-084b-4f76-bcb2-3074c49a1b4e.png">
