@@ -33,7 +33,7 @@ Reference: https://blog.csdn.net/qq_41767116/article/details/123676217?ops_reque
 sudo chown -R 501:20 "/Users/jamesyen/.npm"  
 ```  
 
-![1591682848822_ pic](https://user-images.githubusercontent.com/100248639/235347170-c421c821-6c78-43af-a101-6a6ab0765f3a.jpg)  
+<img src="https://user-images.githubusercontent.com/100248639/235347170-c421c821-6c78-43af-a101-6a6ab0765f3a.jpg" height="400">
 
 ```shell
 sudo npm install -g expo-cli  
