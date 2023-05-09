@@ -37,13 +37,13 @@
     "react-native-web": "~0.18.7"
   },
   "scripts": {
-    "android": "../node_modules/.bin/expo start --android",
-    "ios": "../node_modules/.bin/expo start --ios",
-    "start": "../node_modules/.bin/expo start",
-    "build": "../node_modules/.bin/expo build:web",
-    "test": "../node_modules/.bin/jest",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "start": "expo start",
+    "build": "expo build:web",
+    "test": "jest",
     "lint": "../node_modules/.bin/eslint .",
-    "prettier": "../node_modules/.bin/prettier --write **/*.{js,jsx,ts,tsx,css,scss,json,md}"
+    "prettier": "prettier --write **/*.{js,jsx,ts,tsx,css,scss,json,md}"
   },
   "eslintConfig": {
     "extends": [
