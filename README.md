@@ -51,3 +51,5 @@ npm i @expo/ngrok@^4.1.0
 ```shell
 npm install -g expo-cli  
 ```
+
+if npm install isn't working and it's your first time using it + in china consider: https://blog.csdn.net/qq_42250644/article/details/127507408  
